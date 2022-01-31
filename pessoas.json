@@ -37,5 +37,14 @@
             "silestre",
             "tirolipa"
         ]
+    },
+    {
+        "nome": "Carlos",
+        "cpf": "888.888.888-88",
+        "casado": true,
+        "filhos": [
+            "Maria",
+            "Joao"
+        ]
     }
 ]
